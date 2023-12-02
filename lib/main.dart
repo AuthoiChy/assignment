@@ -29,7 +29,7 @@ class FirstPage extends StatelessWidget {
           CardWidget(
             'The Complete Reference Java',
             'Herbert Schildt',
-            '4.5',
+            '2.3',
             '\$550',
             'A comprehensive guide to the Java programming language.',
             'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRWgmRs-Tx10p2IU43FniNdIrcoSBL6eXKQ&usqp=CAU',
