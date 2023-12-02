@@ -20,9 +20,9 @@ class FirstPage extends StatelessWidget {
         children: [
           CardWidget(
             'Head First Java',
-            'Kathy Sierra  Bert Bates',
-            '4.7',
-            '\$500.99',
+            'Kathy Sierra & Bert Bates',
+            '2.3',
+            '\$550.99',
             "Head First Java offers a unique learning experience, transcending traditional manuals. Dive into puzzles, mysteries, and engaging interviews to quickly master Java's fundamentals, including lambdas, threading, and networking. Ideal for both beginners and experienced programmers, it introduces modern coding for a sleeker and more efficient Java.",
             'https://m.media-amazon.com/images/I/819DmGB3vhL.AC_UF350,350_QL50.jpg',
           ),
@@ -30,7 +30,7 @@ class FirstPage extends StatelessWidget {
             'The Complete Reference Java',
             'Herbert Schildt',
             '4.5',
-            '\$550',
+            '\$578',
             'A comprehensive guide to the Java programming language.',
             'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRWgmRs-Tx10p2IU43FniNdIrcoSBL6eXKQ&usqp=CAU',
           ),
