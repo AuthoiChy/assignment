@@ -20,7 +20,7 @@ class FirstPage extends StatelessWidget {
         children: [
           CardWidget(
             'Head First Java',
-            'Kathy Sierra  Bert Bates',
+            'Kathy Sierra & Bert Bates',
             '4.7',
             '\$500.99',
             "Head First Java offers a unique learning experience, transcending traditional manuals. Dive into puzzles, mysteries, and engaging interviews to quickly master Java's fundamentals, including lambdas, threading, and networking. Ideal for both beginners and experienced programmers, it introduces modern coding for a sleeker and more efficient Java.",
